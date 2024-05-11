@@ -3,6 +3,8 @@
 
 #pragma once
 
+#define DYNAMIC_KEYMAP_LAYER_COUNT 7
+
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
