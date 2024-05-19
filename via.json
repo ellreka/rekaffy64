@@ -1,7 +1,7 @@
 {
   "name": "rekaffy64",
-  "vendorId": "0xDA74",
-  "productId": "0x7437",
+  "vendorId": "0x6982",
+  "productId": "0x0001",
   "menus": [],
   "keycodes": [],
   "matrix": { "cols": 13, "rows": 5 },

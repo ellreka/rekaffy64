@@ -3,7 +3,7 @@
 
 #pragma once
 
-#define DYNAMIC_KEYMAP_LAYER_COUNT 7
+#define DYNAMIC_KEYMAP_LAYER_COUNT 1
 
 /*
  * Feature disable options
